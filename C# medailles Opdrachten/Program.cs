@@ -15,15 +15,10 @@ namespace C__medailles_Opdrachten
 
             Console.Write("Leeftijd: ");
             string age = Console.ReadLine();
-            int age;
-            while (!int.TryParse(age, out age))
-            {
-                Console.Write("Ongelidge leeftijd");
-                age = Console.ReadLine();
-            }
-            Console.WriteLine($"Hoi {name}, Je bent {age} jaar oud");
-            Console.WriteLine("Druk op een knop om door te gaan");
-            Console.ReadKey();
+
+                Console.WriteLine($"Hoi {name}, Je bent {age} jaar oud");
+                Console.WriteLine("Druk op een knop om door te gaan");
+                Console.ReadKey();
         }
     }
 }
