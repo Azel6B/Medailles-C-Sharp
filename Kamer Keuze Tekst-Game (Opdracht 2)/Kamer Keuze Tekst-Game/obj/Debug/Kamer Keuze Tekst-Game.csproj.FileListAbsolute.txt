@@ -1,0 +1,8 @@
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Kamer Keuze Tekst-Game (Opdracht 2)\Kamer Keuze Tekst-Game\bin\Debug\Kamer Keuze Tekst-Game.exe.config
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Kamer Keuze Tekst-Game (Opdracht 2)\Kamer Keuze Tekst-Game\bin\Debug\Kamer Keuze Tekst-Game.exe
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Kamer Keuze Tekst-Game (Opdracht 2)\Kamer Keuze Tekst-Game\bin\Debug\Kamer Keuze Tekst-Game.pdb
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Kamer Keuze Tekst-Game (Opdracht 2)\Kamer Keuze Tekst-Game\obj\Debug\Kamer Keuze Tekst-Game.csproj.AssemblyReference.cache
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Kamer Keuze Tekst-Game (Opdracht 2)\Kamer Keuze Tekst-Game\obj\Debug\Kamer Keuze Tekst-Game.csproj.CoreCompileInputs.cache
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Kamer Keuze Tekst-Game (Opdracht 2)\Kamer Keuze Tekst-Game\obj\Debug\Kamer Keuze Tekst-Game.exe
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Kamer Keuze Tekst-Game (Opdracht 2)\Kamer Keuze Tekst-Game\obj\Debug\Kamer Keuze Tekst-Game.pdb
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Kamer Keuze Tekst-Game (Opdracht 2)\Kamer Keuze Tekst-Game\obj\Debug\Kamer Keuze Tekst-Game.exe.config
