@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Kamer_Keuze_Tekst_Game;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
@@ -7,31 +8,72 @@ using System.Threading.Tasks;
 
 namespace Kamer_Keuze_Tekst_Game
 {
+    public class player
+    {
+        public string name;
+        public int health;
+        public int damage;
+        public bool weapon;
+        public inventory playerInventory;
+        public player(string name, int health, int damage, bool weapon)
+        {
+            this.name = name;
+            this.health = health;
+            this.damage = damage;
+            this.weapon = weapon;
+            this.playerInventory = new inventory (false, false, 0, 0);
+        }
+    }
+    public class inventory
+    { 
+    public bool scissors;
+    public bool medkit;
+    public int bandage;
+    public int keys;
+    public inventory (bool scissors, bool medkit, int bandage, int keys)
+    {
+        this.scissors = scissors;
+        this.medkit = medkit;
+        this.bandage = bandage;
+        this.keys = keys;
+    }
+}
+public class enemy
+{
+    public string name;
+    public string description;
+        public int health;
+        public int damage;
+    public enemy (string name, string description, int health, int damage)
+    {
+        this.name = name;
+        this.description = description;
+        this.health = health;
+        this.damage = damage;
+    }
+
+}
+public class room
+{
+    public string name;
+    public string description;
+    public bool locked;
+    public room (string name, string description, bool locked)
+    {
+        this.name = name;
+        this.description = description;
+        this.locked = locked;
+    }
+
+}
     internal class Program
     {
         static void Main(string[] args)
           
         {
-            bool scissor = false;
-            Console.WriteLine("Je wordt wakker in een ziekenhuis, je hebt geen idee waarom je hier bent of wie je bent, zoek de uitgang");
-            Console.WriteLine("Er zit nog een naald in je arm, je trekt hem eruit, Je Kamer heeft 3 deuren.");
-            Console.WriteLine("1 = De deur rechts links van je bed, het lijkt niet op de uitgang  ");
-            Console.WriteLine("2 = De deur dicht bij het voeten eind van je bed.");
-            Console.WriteLine("3 = Je kijkt naar de raam recht van je bed, wil je naar buiten kijken ");
-            string choice1 = Console.ReadLine();
-            if (choice1 == "1")
-            {
-                Console.WriteLine("je kiest voor de deur rechts links van je bed, het lijdt naar een Badkamer");
-            }
-            else if (choice1 == "2")
-            {
-                Console.WriteLine("Je kiest voor de deur aan het eind van je voeten bed, Het leidt naar een lange hal, je ziet losse bedden op de grond liggen en de lichten flikkeren");
-            }
-            else if (choice1 == "3")
-            {
-                Console.WriteLine("Je kiest voor het raam rechts van je bed, je bent op de 3de verdieping en er zijn wat bosjes beneden");
-            }
-            else Console.WriteLine("Er zijn maar 3 deuren in de kamer");
+        player player1 = new player("Player", 100, 10, false);
+        room room1 = new room("Patient's Room", " A dreary run down room, its where you woke up", false);
+            Console.WriteLine("What's your name");
         }
     }
 }
