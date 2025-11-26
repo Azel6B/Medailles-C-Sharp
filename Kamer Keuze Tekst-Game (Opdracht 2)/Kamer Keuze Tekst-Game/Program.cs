@@ -1,108 +1,153 @@
 ﻿using System;
 
-namespace Kamer_Keuze_Tekst_Game
+namespace TextAdventureGame
 {
-    public class player
-    {
-        public string name;
-        public int health;
-        public int damage;
-        public bool weapon;
-        public inventory playerInventory;
-        public player(string name, int health, int damage, bool weapon)
-        {
-            this.name = name;
-            this.health = health;
-            this.damage = damage;
-            this.weapon = weapon;
-            this.playerInventory = new inventory(false, false, 0, 0);
-        }
-    }
-    public class inventory
-    {
-        public bool scissors;
-        public bool medkit;
-        public int bandage;
-        public int keys;
-        public inventory(bool scissors, bool medkit, int bandage, int keys)
-        {
-            this.scissors = scissors;
-            this.medkit = medkit;
-            this.bandage = bandage;
-            this.keys = keys;
-        }
-    }
-    public class enemy
-    {
-        public string name;
-        public string description;
-        public int health;
-        public int damage;
-        public enemy(string name, string description, int health, int damage)
-        {
-            this.name = name;
-            this.description = description;
-            this.health = health;
-            this.damage = damage;
-        }
-
-    }
-    public class room
-    {
-        public string name;
-        public string description;
-        public bool locked;
-        public room(string name, string description, bool locked)
-        {
-            this.name = name;
-            this.description = description;
-            this.locked = locked;
-        }
-
-    }
     internal class Program
     {
         static void Main(string[] args)
-
         {
-            player player1 = new player("Player", 100, 10, false);
-            room room1 = new room("Patient's Room", " A dreary run down room, its where you woke up", false);
-            room room2 = new room("Bathroom", "A neat bathroom, what youd expect from a hospital", false);
-            room room3 = new room("Hallway", "A long hallway with several doors on either side", true);
-            room room4 = new room("Window", "Nice window? not much to say about it", true);
-            Console.Write("Name: ");
+            Console.Write("Enter your name: ");
             string playerName = Console.ReadLine();
-            player1.name = playerName;
-            Console.WriteLine($"Your name is {playerName}");
-            if (player1.weapon == false)
+            Console.WriteLine($"\nWelcome, {playerName}. You find yourself in a dimly lit Entry Hall.");
+
+            string currentRoom = "Entry Hall";
+            bool gameOver = false;
+
+            while (!gameOver)
             {
-                Console.WriteLine("You have no weapon");
-            }
-            else
-            {
-                Console.WriteLine($"You have a weapon");
-            }
-            Console.WriteLine("There are 2 doors in your room, along with a window to the side.");
-            Console.WriteLine("Do you want to go through the 'left door', 'right door' or look through the 'window?'");
-            string choice1 = Console.ReadLine();
-            if (choice1.ToLower() == "left door")
-            {
-                Console.WriteLine("You go through the left door");
-            }
-            else if (choice1.ToLower() == "right door")
-            {
-                Console.WriteLine("You go through the right door");
-            }
-            else if (choice1.ToLower() == "window")
-            {
-                Console.WriteLine("You look through the window and see a garden outside");
-            }
-            else
-            {
-                Console.WriteLine("Invalid choice, please choose again.");
+                Console.WriteLine($"\n--- You are in the {currentRoom} ---");
+
+                if (currentRoom == "Entry Hall")
+                {
+                    Console.WriteLine("You see a 'left door', a 'right door', and a path 'straight ahead'.");
+                    Console.Write("What do you do? ");
+                    string choice = Console.ReadLine().ToLower();
+
+                    if (choice == "left door")
+                    {
+                        Console.WriteLine("You cautiously open the left door and step into a dirty Kitchen.");
+                        currentRoom = "Kitchen";
+                    }
+                    else if (choice == "right door")
+                    {
+                        Console.WriteLine("You push open the right door into a dusty Living Room.");
+                        currentRoom = "Living Room";
+                    }
+                    else if (choice == "straight ahead")
+                    {
+                        Console.WriteLine("You walk straight ahead and discover an unexpected exit! The fresh air hits you.");
+                        Console.WriteLine("You've escaped! You Win!");
+                        gameOver = true;
+                    }
+                    else
+                    {
+                        Console.WriteLine("You hesitate, that way give you a bad feeling. Try a different direction.");
+                    }
+                }
+                else if (currentRoom == "Kitchen")
+                {
+                    Console.WriteLine("The Kitchen is dark and smells of decay. You see a 'pantry', an 'exit window', or you can 'back to entry hall'.");
+                    Console.Write("What do you do? ");
+                    string choice = Console.ReadLine().ToLower();
+
+                    if (choice == "pantry")
+                    {
+                        Console.WriteLine("You open the pantry door, and a swarm of rats rushes out, biting at your ankles!");
+                        Console.WriteLine("You're overwhelmed by the creatures. You Lose!");
+                        gameOver = true;
+                    }
+                    else if (choice == "exit window")
+                    {
+                        Console.WriteLine("You manage to pry open the old window and crawl outside into a dense, dark forest.");
+                        Console.WriteLine("You've found an escape route! You Win!");
+                        gameOver = true;
+                    }
+                    else if (choice == "back to entry hall")
+                    {
+                        Console.WriteLine("You return to the Entry Hall.");
+                        currentRoom = "Entry Hall";
+                    }
+                    else
+                    {
+                        Console.WriteLine("That's not an option here. The darkness presses in.");
+                    }
+                }
+                else if (currentRoom == "Living Room")
+                {
+                    Console.WriteLine("The Living Room is grand but eerily quiet. There's a 'fireplace', a 'staircase', and you can go 'back to entry hall'.");
+                    Console.Write("What do you do? ");
+                    string choice = Console.ReadLine().ToLower();
+
+                    if (choice == "fireplace")
+                    {
+                        Console.WriteLine("You peer into the cold fireplace. Suddenly, a hidden trapdoor opens beneath you, dropping you into a dark pit!");
+                        Console.WriteLine("You fall to your doom. You Lose!");
+                        gameOver = true;
+                    }
+                    else if (choice == "staircase")
+                    {
+                        Console.WriteLine("You ascend the creaking staircase, leading to a shadowy Bedroom.");
+                        currentRoom = "Bedroom";
+                    }
+                    else if (choice == "back to entry hall")
+                    {
+                        Console.WriteLine("You head back to the Entry Hall.");
+                        currentRoom = "Entry Hall";
+                    }
+                    else
+                    {
+                        Console.WriteLine("The silence makes you uneasy. Choose a path.");
+                    }
+                }
+                else if (currentRoom == "Bedroom")
+                {
+                    Console.WriteLine("The Bedroom is unsettlingly neat. There's a 'closet', a 'balcony', and you can go 'back to living room'.");
+                    Console.Write("What do you do? ");
+                    string choice = Console.ReadLine().ToLower();
+
+                    if (choice == "closet")
+                    {
+                        Console.WriteLine("You open the closet, and a withered hand grabs you from within, pulling you into the darkness!");
+                        Console.WriteLine("You're trapped forever. You Lose!");
+                        gameOver = true;
+                    }
+                    else if (choice == "balcony")
+                    {
+                        Console.WriteLine("You step out onto the balcony and, with a daring leap, make it to a nearby rooftop, finding your way to safety!");
+                        Console.WriteLine("You've found freedom! You Win!");
+                        gameOver = true;
+                    }
+                    else if (choice == "back to living room")
+                    {
+                        Console.WriteLine("You descend the staircase back to the Living Room.");
+                        currentRoom = "Living Room";
+                    }
+                    else
+                    {
+                        Console.WriteLine("A chill permeates the room. Make a decision.");
+                    }
+                }
+                if (gameOver)
+                {
+                    Console.WriteLine("\nEnter 'R' to restart, or any other key to exit.");
+                    string restartChoice = Console.ReadLine().ToLower();
+                    if (restartChoice == "r")
+                    {
+                        
+                        currentRoom = "Entry Hall";
+                        gameOver = false; 
+                        Console.Clear(); 
+                        Console.WriteLine($"\nWelcome back, {playerName}. You find yourself once again in the dimly lit Entry Hall.");
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
             }
 
-
+            Console.WriteLine("\nPress any key to go forward.");
+            Console.ReadKey();
         }
     }
 }
