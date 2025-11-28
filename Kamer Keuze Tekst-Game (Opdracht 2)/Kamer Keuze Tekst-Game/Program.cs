@@ -36,12 +36,12 @@ namespace TextAdventureGame
                     else if (choice == "straight ahead")
                     {
                         Console.WriteLine("You walk straight ahead and discover an unexpected exit! The fresh air hits you.");
-                        Console.WriteLine("You've escaped! You Win!");
+                        Console.WriteLine("You've escaped! You Win!");//simple win path
                         gameOver = true;
                     }
                     else
                     {
-                        Console.WriteLine("You hesitate, that way give you a bad feeling. Try a different direction.");
+                        Console.WriteLine("You hesitate, that way gives you a bad feeling. Try a different direction.");
                     }
                 }
                 else if (currentRoom == "Kitchen")
@@ -54,12 +54,12 @@ namespace TextAdventureGame
                     {
                         Console.WriteLine("You open the pantry door, and a swarm of rats rushes out, biting at your ankles!");
                         Console.WriteLine("You're overwhelmed by the creatures. You Lose!");
-                        gameOver = true;
+                        gameOver = true;//simple lose path
                     }
                     else if (choice == "exit window")
                     {
                         Console.WriteLine("You manage to pry open the old window and crawl outside into a dense, dark forest.");
-                        Console.WriteLine("You've found an escape route! You Win!");
+                        Console.WriteLine("You've found an escape route! You Win!");//simple win path
                         gameOver = true;
                     }
                     else if (choice == "back to entry hall")
@@ -81,8 +81,8 @@ namespace TextAdventureGame
                     if (choice == "fireplace")
                     {
                         Console.WriteLine("You peer into the cold fireplace. Suddenly, a hidden trapdoor opens beneath you, dropping you into a dark pit!");
-                        Console.WriteLine("You fall to your doom. You Lose!");
-                        gameOver = true;
+                        Console.WriteLine("you find yourslelf in a dark throne room, youve landed on the many riches that fill it");
+                        currentRoom = "Throne Room";
                     }
                     else if (choice == "staircase")
                     {
@@ -99,6 +99,28 @@ namespace TextAdventureGame
                         Console.WriteLine("The silence makes you uneasy. Choose a path.");
                     }
                 }
+                else if (currentRoom == "Throne Room")
+                {
+                    Console.WriteLine("The Throne Room is filled with glittering treasures. You can 'take treasure' or 'go back to living room'.");
+                    Console.Write("What do you do? ");
+                    string choice = Console.ReadLine().ToLower();
+                    if (choice == "take treasure")
+                    {
+                        Console.WriteLine("As you grab the glistening golden crown, your hand begins to turn to gold, you scream out for help but no one can hear  you...");
+                        Console.WriteLine("Eventually your entire body turns to gold, solidifying your greed as an eternal statue in this abandoned throne room");
+                        Console.WriteLine("You're trapped forever. You Lose!");//simple lose path
+                        gameOver = true;
+                    }
+                    else if (choice == "go back to living room")
+                    {
+                        Console.WriteLine("You climb out of the pit and return to the Living Room.");
+                        currentRoom = "Living Room";
+                    }
+                    else
+                    {
+                        Console.WriteLine("The glittering treasures distract you. Make a decision.");
+                    }
+                }
                 else if (currentRoom == "Bedroom")
                 {
                     Console.WriteLine("The Bedroom is unsettlingly neat. There's a 'closet', a 'balcony', and you can go 'back to living room'.");
@@ -108,13 +130,13 @@ namespace TextAdventureGame
                     if (choice == "closet")
                     {
                         Console.WriteLine("You open the closet, and a withered hand grabs you from within, pulling you into the darkness!");
-                        Console.WriteLine("You're trapped forever. You Lose!");
+                        Console.WriteLine("You're trapped forever. You Lose!");//simple lose path
                         gameOver = true;
                     }
                     else if (choice == "balcony")
                     {
                         Console.WriteLine("You step out onto the balcony and, with a daring leap, make it to a nearby rooftop, finding your way to safety!");
-                        Console.WriteLine("You've found freedom! You Win!");
+                        Console.WriteLine("You've found freedom! You Win!");//simple win path
                         gameOver = true;
                     }
                     else if (choice == "back to living room")
@@ -137,7 +159,7 @@ namespace TextAdventureGame
                         currentRoom = "Entry Hall";
                         gameOver = false; 
                         Console.Clear(); 
-                        Console.WriteLine($"\nWelcome back, {playerName}. You find yourself once again in the dimly lit Entry Hall.");
+                        Console.WriteLine($"\nWelcome back, {playerName}. You find yourself once again in the dimly lit Entry Hall.");//give it a kind of looping feel
                     }
                     else
                     {
