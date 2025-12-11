@@ -1,0 +1,8 @@
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Leeftijd Berekenen (Opdracht 4)\Leeftijd Berekenen\bin\Debug\Leeftijd Berekenen.exe.config
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Leeftijd Berekenen (Opdracht 4)\Leeftijd Berekenen\bin\Debug\Leeftijd Berekenen.exe
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Leeftijd Berekenen (Opdracht 4)\Leeftijd Berekenen\bin\Debug\Leeftijd Berekenen.pdb
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Leeftijd Berekenen (Opdracht 4)\Leeftijd Berekenen\obj\Debug\Leeftijd Berekenen.csproj.AssemblyReference.cache
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Leeftijd Berekenen (Opdracht 4)\Leeftijd Berekenen\obj\Debug\Leeftijd Berekenen.csproj.CoreCompileInputs.cache
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Leeftijd Berekenen (Opdracht 4)\Leeftijd Berekenen\obj\Debug\Leeftijd Berekenen.exe
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Leeftijd Berekenen (Opdracht 4)\Leeftijd Berekenen\obj\Debug\Leeftijd Berekenen.pdb
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Leeftijd Berekenen (Opdracht 4)\Leeftijd Berekenen\obj\Debug\Leeftijd Berekenen.exe.config

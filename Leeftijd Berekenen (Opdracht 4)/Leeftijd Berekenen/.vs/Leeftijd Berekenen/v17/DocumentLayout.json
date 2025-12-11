@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\School\\C# Lessen\\C#\\Medailles-C-Sharp\\Leeftijd Berekenen (Opdracht 4)\\Leeftijd Berekenen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D90F360-D7BC-45BB-BD0A-683E8B29D764}|Leeftijd Berekenen.csproj|c:\\github\\school\\c# lessen\\c#\\medailles-c-sharp\\leeftijd berekenen (opdracht 4)\\leeftijd berekenen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D90F360-D7BC-45BB-BD0A-683E8B29D764}|Leeftijd Berekenen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\School\\C# Lessen\\C#\\Medailles-C-Sharp\\Leeftijd Berekenen (Opdracht 4)\\Leeftijd Berekenen\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Github\\School\\C# Lessen\\C#\\Medailles-C-Sharp\\Leeftijd Berekenen (Opdracht 4)\\Leeftijd Berekenen\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:54:39.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
