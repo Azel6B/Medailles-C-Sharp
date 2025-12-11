@@ -1,0 +1,8 @@
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Tips Voor Het Weer (Opdracht 3)\Tips Voor Het Weer\bin\Debug\Tips Voor Het Weer.exe.config
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Tips Voor Het Weer (Opdracht 3)\Tips Voor Het Weer\bin\Debug\Tips Voor Het Weer.exe
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Tips Voor Het Weer (Opdracht 3)\Tips Voor Het Weer\bin\Debug\Tips Voor Het Weer.pdb
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Tips Voor Het Weer (Opdracht 3)\Tips Voor Het Weer\obj\Debug\Tips Voor Het Weer.csproj.AssemblyReference.cache
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Tips Voor Het Weer (Opdracht 3)\Tips Voor Het Weer\obj\Debug\Tips Voor Het Weer.csproj.CoreCompileInputs.cache
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Tips Voor Het Weer (Opdracht 3)\Tips Voor Het Weer\obj\Debug\Tips Voor Het Weer.exe
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Tips Voor Het Weer (Opdracht 3)\Tips Voor Het Weer\obj\Debug\Tips Voor Het Weer.pdb
+C:\Github\School\C# Lessen\C#\Medailles-C-Sharp\Tips Voor Het Weer (Opdracht 3)\Tips Voor Het Weer\obj\Debug\Tips Voor Het Weer.exe.config
