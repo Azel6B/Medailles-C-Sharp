@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\Opdrachten\\Tafels Generator (Opdracht 5)\\",
+  "WorkspaceRootPath": "D:\\GitHub\\Medailles-C-Sharp\\[5]Tafels Generator (Opdracht 5)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4E2E2F3-3347-41EE-8E4F-D0EA5C7412F0}|Tafels Generator (Opdracht 5).csproj|d:\\github\\opdrachten\\tafels generator (opdracht 5)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4E2E2F3-3347-41EE-8E4F-D0EA5C7412F0}|Tafels Generator (Opdracht 5).csproj|d:\\github\\medailles-c-sharp\\[5]tafels generator (opdracht 5)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4E2E2F3-3347-41EE-8E4F-D0EA5C7412F0}|Tafels Generator (Opdracht 5).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\Opdrachten\\Tafels Generator (Opdracht 5)\\Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Medailles-C-Sharp\\[5]Tafels Generator (Opdracht 5)\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\GitHub\\Opdrachten\\Tafels Generator (Opdracht 5)\\Program.cs",
+              "ToolTip": "D:\\GitHub\\Medailles-C-Sharp\\[5]Tafels Generator (Opdracht 5)\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T09:04:35.971Z",
               "EditorCaption": ""

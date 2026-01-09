@@ -1,0 +1,8 @@
+D:\GitHub\Medailles-C-Sharp\[5]Tafels Generator (Opdracht 5)\obj\Debug\Tafels Generator (Opdracht 5).csproj.AssemblyReference.cache
+D:\GitHub\Medailles-C-Sharp\[5]Tafels Generator (Opdracht 5)\obj\Debug\Tafels Generator (Opdracht 5).csproj.CoreCompileInputs.cache
+D:\GitHub\Medailles-C-Sharp\[5]Tafels Generator (Opdracht 5)\bin\Debug\Tafels Generator (Opdracht 5).exe.config
+D:\GitHub\Medailles-C-Sharp\[5]Tafels Generator (Opdracht 5)\bin\Debug\Tafels Generator (Opdracht 5).exe
+D:\GitHub\Medailles-C-Sharp\[5]Tafels Generator (Opdracht 5)\bin\Debug\Tafels Generator (Opdracht 5).pdb
+D:\GitHub\Medailles-C-Sharp\[5]Tafels Generator (Opdracht 5)\obj\Debug\Tafels Generator (Opdracht 5).exe
+D:\GitHub\Medailles-C-Sharp\[5]Tafels Generator (Opdracht 5)\obj\Debug\Tafels Generator (Opdracht 5).pdb
+D:\GitHub\Medailles-C-Sharp\[5]Tafels Generator (Opdracht 5)\obj\Debug\Tafels Generator (Opdracht 5).exe.config
