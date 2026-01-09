@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Medailles-C-Sharp\\[6]Getal Raden (Opdracht 6)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C3CB5A-2211-4B95-BFF0-C540221B8120}|[6]Getal Raden (Opdracht 6).csproj|d:\\github\\medailles-c-sharp\\[6]getal raden (opdracht 6)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C3CB5A-2211-4B95-BFF0-C540221B8120}|[6]Getal Raden (Opdracht 6).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Medailles-C-Sharp\\[6]Getal Raden (Opdracht 6)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHub\\Medailles-C-Sharp\\[6]Getal Raden (Opdracht 6)\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:11:22.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

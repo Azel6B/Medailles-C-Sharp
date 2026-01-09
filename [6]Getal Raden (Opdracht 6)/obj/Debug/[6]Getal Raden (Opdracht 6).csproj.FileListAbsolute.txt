@@ -1,0 +1,8 @@
+D:\GitHub\Medailles-C-Sharp\[6]Getal Raden (Opdracht 6)\bin\Debug\[6]Getal Raden (Opdracht 6).exe.config
+D:\GitHub\Medailles-C-Sharp\[6]Getal Raden (Opdracht 6)\bin\Debug\[6]Getal Raden (Opdracht 6).exe
+D:\GitHub\Medailles-C-Sharp\[6]Getal Raden (Opdracht 6)\bin\Debug\[6]Getal Raden (Opdracht 6).pdb
+D:\GitHub\Medailles-C-Sharp\[6]Getal Raden (Opdracht 6)\obj\Debug\[6]Getal Raden (Opdracht 6).csproj.AssemblyReference.cache
+D:\GitHub\Medailles-C-Sharp\[6]Getal Raden (Opdracht 6)\obj\Debug\[6]Getal Raden (Opdracht 6).csproj.CoreCompileInputs.cache
+D:\GitHub\Medailles-C-Sharp\[6]Getal Raden (Opdracht 6)\obj\Debug\[6]Getal Raden (Opdracht 6).exe
+D:\GitHub\Medailles-C-Sharp\[6]Getal Raden (Opdracht 6)\obj\Debug\[6]Getal Raden (Opdracht 6).pdb
+D:\GitHub\Medailles-C-Sharp\[6]Getal Raden (Opdracht 6)\obj\Debug\[6]Getal Raden (Opdracht 6).exe.config
