@@ -1,0 +1,8 @@
+D:\GitHub\Medailles-C-Sharp\[7]Dobbelsteen Simulatie(Opdracht 7)\bin\Debug\[7]Dobbelsteen Simulatie(Opdracht 7).exe.config
+D:\GitHub\Medailles-C-Sharp\[7]Dobbelsteen Simulatie(Opdracht 7)\bin\Debug\[7]Dobbelsteen Simulatie(Opdracht 7).exe
+D:\GitHub\Medailles-C-Sharp\[7]Dobbelsteen Simulatie(Opdracht 7)\bin\Debug\[7]Dobbelsteen Simulatie(Opdracht 7).pdb
+D:\GitHub\Medailles-C-Sharp\[7]Dobbelsteen Simulatie(Opdracht 7)\obj\Debug\[7]Dobbelsteen Simulatie(Opdracht 7).csproj.AssemblyReference.cache
+D:\GitHub\Medailles-C-Sharp\[7]Dobbelsteen Simulatie(Opdracht 7)\obj\Debug\[7]Dobbelsteen Simulatie(Opdracht 7).csproj.CoreCompileInputs.cache
+D:\GitHub\Medailles-C-Sharp\[7]Dobbelsteen Simulatie(Opdracht 7)\obj\Debug\[7]Dobbelsteen Simulatie(Opdracht 7).exe
+D:\GitHub\Medailles-C-Sharp\[7]Dobbelsteen Simulatie(Opdracht 7)\obj\Debug\[7]Dobbelsteen Simulatie(Opdracht 7).pdb
+D:\GitHub\Medailles-C-Sharp\[7]Dobbelsteen Simulatie(Opdracht 7)\obj\Debug\[7]Dobbelsteen Simulatie(Opdracht 7).exe.config
