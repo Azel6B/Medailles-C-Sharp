@@ -1,0 +1,8 @@
+D:\GitHub\Medailles-C-Sharp\[8]Game Karakter Met Constructor (Opdracht 8)\bin\Debug\[8]Game Karakter Met Constructor (Opdracht 8).exe.config
+D:\GitHub\Medailles-C-Sharp\[8]Game Karakter Met Constructor (Opdracht 8)\bin\Debug\[8]Game Karakter Met Constructor (Opdracht 8).exe
+D:\GitHub\Medailles-C-Sharp\[8]Game Karakter Met Constructor (Opdracht 8)\bin\Debug\[8]Game Karakter Met Constructor (Opdracht 8).pdb
+D:\GitHub\Medailles-C-Sharp\[8]Game Karakter Met Constructor (Opdracht 8)\obj\Debug\[8]Game Karakter Met Constructor (Opdracht 8).csproj.AssemblyReference.cache
+D:\GitHub\Medailles-C-Sharp\[8]Game Karakter Met Constructor (Opdracht 8)\obj\Debug\[8]Game Karakter Met Constructor (Opdracht 8).csproj.CoreCompileInputs.cache
+D:\GitHub\Medailles-C-Sharp\[8]Game Karakter Met Constructor (Opdracht 8)\obj\Debug\[8]Game Karakter Met Constructor (Opdracht 8).exe
+D:\GitHub\Medailles-C-Sharp\[8]Game Karakter Met Constructor (Opdracht 8)\obj\Debug\[8]Game Karakter Met Constructor (Opdracht 8).pdb
+D:\GitHub\Medailles-C-Sharp\[8]Game Karakter Met Constructor (Opdracht 8)\obj\Debug\[8]Game Karakter Met Constructor (Opdracht 8).exe.config
