@@ -1,0 +1,7 @@
+D:\GitHub\Medailles-C-Sharp\[11]Rekenquiz (Opdract 11)\bin\Debug\[11]Rekenquiz (Opdract 11).exe.config
+D:\GitHub\Medailles-C-Sharp\[11]Rekenquiz (Opdract 11)\bin\Debug\[11]Rekenquiz (Opdract 11).exe
+D:\GitHub\Medailles-C-Sharp\[11]Rekenquiz (Opdract 11)\bin\Debug\[11]Rekenquiz (Opdract 11).pdb
+D:\GitHub\Medailles-C-Sharp\[11]Rekenquiz (Opdract 11)\obj\Debug\[11]Rekenquiz (Opdract 11).csproj.AssemblyReference.cache
+D:\GitHub\Medailles-C-Sharp\[11]Rekenquiz (Opdract 11)\obj\Debug\[11]Rekenquiz (Opdract 11).csproj.CoreCompileInputs.cache
+D:\GitHub\Medailles-C-Sharp\[11]Rekenquiz (Opdract 11)\obj\Debug\[11]Rekenquiz (Opdract 11).exe
+D:\GitHub\Medailles-C-Sharp\[11]Rekenquiz (Opdract 11)\obj\Debug\[11]Rekenquiz (Opdract 11).pdb
