@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Medailles-C-Sharp\\[Game]Blackjack - Eerste Game in C# Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC50AC06-6177-44CA-90AF-EF4F5B0A786B}|[Game]Blackjack - Eerste Game in C# Console.csproj|d:\\github\\medailles-c-sharp\\[game]blackjack - eerste game in c# console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC50AC06-6177-44CA-90AF-EF4F5B0A786B}|[Game]Blackjack - Eerste Game in C# Console.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Medailles-C-Sharp\\[Game]Blackjack - Eerste Game in C# Console\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHub\\Medailles-C-Sharp\\[Game]Blackjack - Eerste Game in C# Console\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:01:07.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
