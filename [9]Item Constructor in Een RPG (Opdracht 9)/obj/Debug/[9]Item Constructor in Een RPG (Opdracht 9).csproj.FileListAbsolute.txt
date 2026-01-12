@@ -1,0 +1,7 @@
+D:\GitHub\Medailles-C-Sharp\[9]Item Constructor in Een RPG (Opdracht 9)\bin\Debug\[9]Item Constructor in Een RPG (Opdracht 9).exe.config
+D:\GitHub\Medailles-C-Sharp\[9]Item Constructor in Een RPG (Opdracht 9)\bin\Debug\[9]Item Constructor in Een RPG (Opdracht 9).exe
+D:\GitHub\Medailles-C-Sharp\[9]Item Constructor in Een RPG (Opdracht 9)\bin\Debug\[9]Item Constructor in Een RPG (Opdracht 9).pdb
+D:\GitHub\Medailles-C-Sharp\[9]Item Constructor in Een RPG (Opdracht 9)\obj\Debug\[9]Item Constructor in Een RPG (Opdracht 9).csproj.AssemblyReference.cache
+D:\GitHub\Medailles-C-Sharp\[9]Item Constructor in Een RPG (Opdracht 9)\obj\Debug\[9]Item Constructor in Een RPG (Opdracht 9).csproj.CoreCompileInputs.cache
+D:\GitHub\Medailles-C-Sharp\[9]Item Constructor in Een RPG (Opdracht 9)\obj\Debug\[9]Item Constructor in Een RPG (Opdracht 9).exe
+D:\GitHub\Medailles-C-Sharp\[9]Item Constructor in Een RPG (Opdracht 9)\obj\Debug\[9]Item Constructor in Een RPG (Opdracht 9).pdb
