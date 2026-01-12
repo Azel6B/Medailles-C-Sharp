@@ -1,0 +1,8 @@
+D:\GitHub\Medailles-C-Sharp\[10]Woord Omkeren (Opdracht 10)\bin\Debug\[10]Woord Omkeren (Opdracht 10).exe.config
+D:\GitHub\Medailles-C-Sharp\[10]Woord Omkeren (Opdracht 10)\bin\Debug\[10]Woord Omkeren (Opdracht 10).exe
+D:\GitHub\Medailles-C-Sharp\[10]Woord Omkeren (Opdracht 10)\bin\Debug\[10]Woord Omkeren (Opdracht 10).pdb
+D:\GitHub\Medailles-C-Sharp\[10]Woord Omkeren (Opdracht 10)\obj\Debug\[10]Woord Omkeren (Opdracht 10).csproj.AssemblyReference.cache
+D:\GitHub\Medailles-C-Sharp\[10]Woord Omkeren (Opdracht 10)\obj\Debug\[10]Woord Omkeren (Opdracht 10).csproj.CoreCompileInputs.cache
+D:\GitHub\Medailles-C-Sharp\[10]Woord Omkeren (Opdracht 10)\obj\Debug\[10]Woord Omkeren (Opdracht 10).exe
+D:\GitHub\Medailles-C-Sharp\[10]Woord Omkeren (Opdracht 10)\obj\Debug\[10]Woord Omkeren (Opdracht 10).pdb
+D:\GitHub\Medailles-C-Sharp\[10]Woord Omkeren (Opdracht 10)\obj\Debug\[10]Woord Omkeren (Opdracht 10).exe.config
