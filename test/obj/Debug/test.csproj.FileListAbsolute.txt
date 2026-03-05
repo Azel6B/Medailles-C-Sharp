@@ -1,0 +1,2 @@
+D:\GitHub\Medailles-C-Sharp\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\GitHub\Medailles-C-Sharp\test\obj\Debug\test.csproj.CoreCompileInputs.cache

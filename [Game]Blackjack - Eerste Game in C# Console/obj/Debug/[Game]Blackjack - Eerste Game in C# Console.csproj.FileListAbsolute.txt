@@ -5,3 +5,4 @@ D:\GitHub\Medailles-C-Sharp\[Game]Blackjack - Eerste Game in C# Console\obj\Debu
 D:\GitHub\Medailles-C-Sharp\[Game]Blackjack - Eerste Game in C# Console\obj\Debug\[Game]Blackjack - Eerste Game in C# Console.csproj.CoreCompileInputs.cache
 D:\GitHub\Medailles-C-Sharp\[Game]Blackjack - Eerste Game in C# Console\obj\Debug\[Game]Blackjack - Eerste Game in C# Console.exe
 D:\GitHub\Medailles-C-Sharp\[Game]Blackjack - Eerste Game in C# Console\obj\Debug\[Game]Blackjack - Eerste Game in C# Console.pdb
+D:\GitHub\Medailles-C-Sharp\[Game]Blackjack - Eerste Game in C# Console\obj\Debug\[Game]Blackjack - Eerste Game in C# Console.exe.config
